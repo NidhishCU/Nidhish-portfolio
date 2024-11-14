@@ -1,6 +1,6 @@
-# Portfolio Website - Aman Arya
+# Portfolio Website - Nidhish Kumar Gupta
 
-<b>Visit [Am4nn/Portfolio-Nextjs-Website](https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>
+<b>Visit [Nidhish/Portfolio-Nextjs-Website](https://github.com/NidhishCU/Nidhish-portfolio) github repository for the updated portfolio made using Nextjs:14 </b>
 
 Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain [react.amanarya.com](https://react.amanarya.com)
 
@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 
 ## Contact
 
-If you have any questions, feedback, or would like to get in touch with me, you can use the contact form on my portfolio or email me at <125aryaaman@gmail.com>
+If you have any questions, feedback, or would like to get in touch with me, you can use the contact form on my portfolio or email me at <nidhish.cu@gmail.com>
 
 ## License
 

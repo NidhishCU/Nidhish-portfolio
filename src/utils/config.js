@@ -97,12 +97,12 @@ export const experiences = [
 
 export const projectsData = [
     {
-        title: 'Online-Judge',
-        desciption: 'Build a platform that remotely runs and compiles user submitted code for a programming problem securely and judges if the code is correct/wrong',
-        tech: ['Nodejs', 'React', 'Docker', 'Redis', 'MongoDB', 'Expressjs', 'JWT'],
-        github: 'https://github.com/Am4nn/Online-Judge-Project',
-        external: 'https://oj.amanarya.com',
-        image: '/projects/oj-front.png'
+        title: 'Get Your Dish',
+        desciption: 'Build a platform that remotely runs and fetch your dishes as per your search pattern. You will get all recipies of dishes you want to cook.',
+        tech: ['Nodejs', 'React', 'MongoDB', 'Expressjs', 'JWT'],
+        github: 'https://github.com/NidhishCU/Get-Your-Dish',
+        external: 'https://get-your-dish.vercel.app/',
+        image: '/projects/getyourdish.png'
     },
     {
         title: 'Portfolio',
