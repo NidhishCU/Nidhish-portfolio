@@ -1670,6 +1670,7 @@ popmotion@11.0.3:
     hamburger-react "^2.5.0"
     maath "^0.7.0"
     mongodb "^6.3.0"
+    nidhish_portfolio "file:"
     nodemailer "^6.9.4"
     portfolio "file:"
     react "^18.2.0"

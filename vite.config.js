@@ -7,5 +7,6 @@ export default defineConfig(() => {
             outDir: 'build',
         },
         plugins: [react()],
+        base: process.env.GITHUB_PAGES ? '/Nidhish-portfolio/' : '/',
     };
 });
