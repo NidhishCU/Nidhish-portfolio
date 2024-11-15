@@ -2,7 +2,7 @@
 
 <b>Visit [Nidhish/Portfolio-Nextjs-Website](https://github.com/NidhishCU/Nidhish-portfolio) github repository for the updated portfolio made using Nextjs:14 </b>
 
-Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain [react.amanarya.com](https://react.amanarya.com)
+Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel
 
 ![Portfolio Screenshot](public/preview.png)
 
@@ -12,7 +12,7 @@ This project showcases my portfolio and allows visitors to view my work and send
 
 ## Live Demo
 
-You can see the live demo of this project at [https://react.amanarya.com](https://react.amanarya.com)
+You can see the live demo of this project at [https://nidhish-portfolio.vercel.app/](https://nidhish-portfolio.vercel.app/)
 
 ## Installation
 
@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Am4nn/Portfolio-Website.git
+   git clone https://github.com/NidhishCU/Nidhish-portfolio
    ```
 
 2. Navigate to the project directory:
@@ -51,8 +51,6 @@ To run this project locally, follow these steps:
 - Three.js: Three.js is used for 3D graphics rendering, adding a visually appealing aspect to the portfolio
 
 - Serverless API: The website uses a serverless function hosted on Vercel to handle form submissions and send emails using Nodemailer
-
-- Custom Domain: The portfolio is hosted on a custom domain, [react.amanarya.com](https://react.amanarya.com)
 
 ## Contact
 
