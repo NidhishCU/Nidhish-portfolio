@@ -62,7 +62,7 @@
     "@vitejs/plugin-react": "^4.0.4",
     "vite": "^4.4.9"
   },
-  "description": "<b>Visit [Am4nn/Portfolio-Nextjs-Website](https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>",
+  "description": "<b>Visit [NidhishCU/Nidhish-portfolio](https://github.com/NidhishCU/Nidhish-portfolio) github repository for the updated portfolio made using Nextjs:14 </b>",
   "main": "babel.config.js",
   "author": "Nidhish Kumar Gupta",
   "license": "MIT"
