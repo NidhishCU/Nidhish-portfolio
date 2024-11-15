@@ -64,10 +64,10 @@ export const skills = [
 export const experiences = [
     {
         title: "Software Developer Intern",
-        company_name: "WebTuks It Solutions Pvt Ltd",
+        company_name: "WebToks It Solutions Pvt Ltd",
         bottomColor: "#6d92bf",
         icon: "/company/webtuks.png",
-        date: "June 2023 - August 2023",
+        date: "Jan 2023 - March 2023",
         points: [
              "Developed core features for both companies and job seekers, enabling upskilling, job search, and application management, contributing to a comprehensive employment platform",
         "Implemented a streamlined job application system, improving user experience for job seekers and recruiters alike",
@@ -83,7 +83,7 @@ export const experiences = [
         company_name: "DortexAI",
         bottomColor: "#f1df87",
         icon: "/company/DortexAI.png",
-        date: "Sep 2023 - Present",
+        date: "April 2023 - Present",
         points: [
             "Led a team of 5 in developing and maintaining mobile applications using React Native, ensuring project timelines and quality standards were met",
             "Oversaw the development of web applications using ReactJS, enhancing responsiveness and improving UX across devices",
@@ -107,25 +107,26 @@ export const projectsData = [
     {
         title: 'Portfolio',
         desciption: 'Crafted an engaging portfolio site with ReactJS and Three.js, enhancing user interaction through a serverless feedback system powered by a custom API',
-        tech: ['Nodejs', 'React', 'Threejs', 'Nodemailer', 'MUI', 'Bootstrap', 'drei'],
+        tech: ['Nodejs', 'React', 'Threejs', 'Nodemailer', 'MUI', 'TailWind', 'Redux'],
         github: 'https://github.com/NidhishCU/Nidhish-portfolio',
-        external: 'https://www.amanarya.com',
-        image: '/projects/portfolio-front.png'
+       external: 'https://nidhish-portfolio.vercel.app/',
+         image: '/projects/portfolio-front.png'
     },
     {
-        title: 'Draw-Graphs',
-        desciption: 'Designed a Java Swing app for user-friendly equation input and dynamic graph visualization, showcasing strong Java and GUI development skills',
-        tech: ['Java', 'Java-Swing', 'Java-Collections'],
-        github: 'https://github.com/Am4nn/Draw-Graphs',
+        title: 'DortexAI Web-Portal',
+        desciption: 'Built a full-featured web portal for DortexAI using ReactJS, Redux, NodeJS, Tailwind CSS, and TypeScript, delivering a responsive, user-friendly interface with dynamic content management.',
+        tech: ['ReactJS', 'Redux', 'NodeJS','Tailwind','TypeScript'],
+        external: 'https://www.dortexai.com/',
         image: '/projects/draw-graph-front.png'
     },
     {
-        title: 'Super-Mario',
-        desciption: "Designed and developed 'Super Mario', a captivating 2D game using C++ and the SFML, showcasing shader programming skills for visually stunning effects in the user interface",
-        tech: ['Cpp', 'SFML', 'Shader', 'Vector', 'CMake'],
-        github: 'https://github.com/Am4nn/Super-Mario-SFML',
-        image: '/projects/super-mario-front.png'
-    }
+        title: 'Skywayholidays WebApp',
+        desciption: "Developed the Skywayholidays WebApp, a user-friendly travel platform for booking tour packages to destinations like Thailand, Dubai, and Malaysia. Built with ReactJS, Redux, and NodeJS, the app offers seamless booking and a responsive design using Tailwind CSS and TypeScript",
+        tech: ['ReactJS','Redux','Tailwind','TypeScript','NodeJS','Figma'],
+        external: 'https://www.skywayholidays.in/',
+        image: '/projects/skyway.png'
+    },
+    
 ];
 
 export const contactData = {
