@@ -1,1 +1,0 @@
-import getyd from './getyourdish.png';

@@ -108,7 +108,7 @@ export const projectsData = [
         title: 'Portfolio',
         desciption: 'Crafted an engaging portfolio site with ReactJS and Three.js, enhancing user interaction through a serverless feedback system powered by a custom API',
         tech: ['Nodejs', 'React', 'Threejs', 'Nodemailer', 'MUI', 'Bootstrap', 'drei'],
-        github: 'https://github.com/Am4nn/Portfolio-Website',
+        github: 'https://github.com/NidhishCU/Nidhish-portfolio',
         external: 'https://www.amanarya.com',
         image: '/projects/portfolio-front.png'
     },
