@@ -8,6 +8,7 @@ import StarBackgroundImage from './StarBackgroundImage/StarBackgroundImage';
 
 const Contact = ({ children }) => {
     return (
+        <div className={styles.contactcontainer}>
         <section id="contact" className={styles.contact}>
             <SectionHeading
                 subText="Get In Touch"
@@ -21,6 +22,7 @@ const Contact = ({ children }) => {
             <StarBackgroundImage />
             {children}
         </section>
+        </div>
     )
 }
 
