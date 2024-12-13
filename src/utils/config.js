@@ -67,7 +67,7 @@ export const experiences = [
         company_name: "WebToks It Solutions Pvt Ltd",
         bottomColor: "#6d92bf",
         icon: "/company/webtuks.png",
-        date: "June 2023 - August 2023",
+        date: "Feb 2024 - April 2024",
         points: [
              "Developed core features for both companies and job seekers, enabling upskilling, job search, and application management, contributing to a comprehensive employment platform",
         "Implemented a streamlined job application system, improving user experience for job seekers and recruiters alike",
@@ -83,7 +83,7 @@ export const experiences = [
         company_name: "DortexAI",
         bottomColor: "#f1df87",
         icon: "/company/DortexAI.png",
-        date: "September 2023 - Present",
+        date: "May 2024 - Present",
         points: [
             "Led a team of 5 in developing and maintaining mobile applications using React Native, ensuring project timelines and quality standards were met",
             "Oversaw the development of web applications using ReactJS, enhancing responsiveness and improving UX across devices",
